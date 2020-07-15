@@ -1,0 +1,27 @@
+{
+  "name": "sms",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "circular-json": "^0.5.9",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "easy-soap-request": "^2.6.0",
+    "express": "~4.16.1",
+    "express-fileupload": "^1.1.6-alpha.1",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.13",
+    "morgan": "~1.9.1",
+    "node-cmd": "^3.0.0",
+    "node-datetime": "^2.1.2",
+    "random": "^2.1.1",
+    "utf8": "^3.0.0",
+    "uuid": "^3.3.3",
+    "xml2js": "^0.4.22"
+  }
+}
